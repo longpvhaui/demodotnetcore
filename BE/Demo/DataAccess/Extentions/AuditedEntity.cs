@@ -2,12 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DataAccess.Domain
+namespace DataAccess.Extentions
 {
-    internal class Student
+    internal class AuditedEntity
     {
-
-        fefwfwf
-
     }
 }

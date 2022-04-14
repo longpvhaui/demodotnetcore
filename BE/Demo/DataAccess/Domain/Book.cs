@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DataAccess.Domain
 {
-    internal class ClassStudent
+    public class Book
     {
     }
 }
