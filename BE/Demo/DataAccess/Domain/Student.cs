@@ -6,5 +6,8 @@ namespace DataAccess.Domain
 {
     internal class Student
     {
+
+        fefwfwf
+
     }
 }
